@@ -1,0 +1,9 @@
+img {
+  border: 10px solid slategrey;
+  transform: 1s;
+}
+
+img:hover {
+  cursor: pointer;
+  transform: scale(1.2);
+}
